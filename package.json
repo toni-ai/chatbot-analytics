@@ -1,0 +1,19 @@
+{
+  "name": "chatbot-analytics",
+  "version": "0.0.1",
+  "description": "Integrate various analytics providers in your chatbot.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "chatbot",
+    "analytics",
+    "bot"
+  ],
+  "author": "Klemens Zleptnig <klemens@toni.ai> (https://toni.ai)",
+  "license": "MIT",
+  "dependencies": {
+    "universal-analytics": "^0.4.8"
+  }
+}

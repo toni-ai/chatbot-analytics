@@ -1,0 +1,19 @@
+.DS_Store
+*.iml
+.idea
+nbproject
+
+# Logs
+*.log
+
+# Dependency directories
+node_modules
+
+# Typings
+typings
+
+# Optional eslint cache
+.eslintcache
+
+# dotenv environment variables file
+.env
