@@ -15,5 +15,6 @@
   "license": "MIT",
   "dependencies": {
     "universal-analytics": "^0.4.8"
-  }
+  },
+  "bugs": "https://github.com/toni-ai/chatbot-analytics/issues"
 }

@@ -32,14 +32,14 @@ ca.trackEvent('[user_id_here]', '[category]', '[action]', '[label]', null, {loca
 
 ## Advanced options
 
-Possible options:
+All possible options that can be passed in the constructor:
 
 ```javascript
 {
-    logging: my_logger,
+    logging: my_logger, // Something like console.log or logger.debug
     ga: { // Enable Google Analytics
-        trackingId: GA_TRACKING_ID_USER,
-        debug: true
+        trackingId: 'YOUR_GA_TRACKING_ID', // The tracking ID (GA property ID)
+        debug: true // Enable GA debug mode?
     }
 }
 ```
