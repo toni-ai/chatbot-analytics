@@ -27,6 +27,9 @@ Then, simply track an event like this:
 const ca = new ChatbotAnalytics({ga: {trackingId: 'YOUR_GA_TRACKING_ID'}});
 
 // Send an event:
+ca.trackEvent('[user_id_here]', '[category]', '[action]');
+
+// Send an event (with additional paramters):
 ca.trackEvent('[user_id_here]', '[category]', '[action]', '[label]', null, {locale: 'en'});
 ```
 
