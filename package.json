@@ -1,6 +1,6 @@
 {
   "name": "chatbot-analytics",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Integrate various analytics providers in your chatbot.",
   "main": "index.js",
   "scripts": {
