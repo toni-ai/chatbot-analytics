@@ -16,6 +16,7 @@
   "dependencies": {
     "universal-analytics": "^0.4.8"
   },
+  "repository": "github:toni-ai/chatbot-analytics",
   "bugs": "https://github.com/toni-ai/chatbot-analytics/issues",
   "homepage": "https://toni.ai"
 }
