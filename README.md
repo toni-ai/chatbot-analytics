@@ -1,6 +1,7 @@
 # Chatbot Analytics for node.js
 
 A helper library for that allows to easily integrate analytics in your chatbot.
+You can read more about how to integrate and use Google Analytics in to your chatbot [here](https://medium.com/toni-ai/better-chatbots-with-the-power-of-google-analytics-7b910fcd8dcb).
 
 Supported 3rd party services:
 
